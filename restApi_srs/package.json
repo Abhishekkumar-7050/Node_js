@@ -1,0 +1,16 @@
+{
+  "name": "restapi_srs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "params": "^0.1.1",
+    "route": "^0.2.5"
+  }
+}
